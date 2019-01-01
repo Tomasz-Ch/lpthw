@@ -7,3 +7,4 @@ print("Mógłbym napisać taki kod.") #a komentarz po kodzie będzie ignorowany
 #print("To nie zostanie uruchomione")
 
 print("To zostanie uruchomione.")
+
