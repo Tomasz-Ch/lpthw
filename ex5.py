@@ -16,3 +16,4 @@ print(f"Jego zęby są zazwyczaj {teeth}, w zalezności od ilości wypitej kawy.
 #ta linia jest trudna, więc wpisuj ją uwaznie
 total = age + height + weight
 print(f"Jeśli dodam {age}, {height} i {weight}, otrzymam {total}.")
+
