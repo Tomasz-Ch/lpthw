@@ -1,0 +1,8 @@
+print("Witaj, świecie!")
+print("Witaj ponownie")
+print("Podoba mi się takie wpisywanie.")
+print("To jest fajne.")
+print('Jeju! Drukuje.')
+print("Wolałbym, żebys tego 'nie robił'.")
+print('"Powiedziałem", że masz tego nie dotykać.')
+print("Trzeba mnieć dużo cierpliwości")
